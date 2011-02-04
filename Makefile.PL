@@ -17,6 +17,7 @@ requires 'XML::Simple';
 test_requires 'Test::More' => 0.88;
 
 install_script 'garoon2growl';
+install_script 'garoon2cocoa-growl';
 
 auto_include;
 auto_install;
